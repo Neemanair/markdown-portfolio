@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of solar system](https://images.app.goo.gl/tn1zMcjBuAKKYJtU9)
